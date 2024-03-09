@@ -1,9 +1,9 @@
 综合,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 CCTV13新闻频道,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
-广东体育,http://219.137.29.178:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://116.21.120.40:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://116.21.123.204:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://219.137.29.178:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 
 咪咕移动回看,#genre#
 北京冬奥纪实,http://39.134.66.66/TVOD/88888888/224/3221225670/index.m3u8
