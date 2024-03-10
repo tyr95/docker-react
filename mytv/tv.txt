@@ -16,20 +16,21 @@ CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 CCTV14,http://39.134.66.66/TVOD/88888888/224/3221225674/index.m3u8
 CCTV15,http://39.134.66.66/TVOD/88888888/224/3221225513/index.m3u8
 
+广东卫视,http://39.134.66.110/TVOD/88888888/224/3221225966/index.m3u8
+广东卫视,http://39.134.66.66/TVOD/88888888/224/3221225966/index.m3u8
 湖南卫视,http://39.134.66.66/TVOD/88888888/224/3221225506/index.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
 浙江卫视,http://39.134.66.66/TVOD/88888888/224/3221225514/index.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
 江苏卫视,http://39.134.66.66/TVOD/88888888/224/3221225503/index.m3u8
 东方卫视,http://39.134.66.66/TVOD/88888888/224/3221225672/index.m3u8
 河南卫视,http://39.134.66.110/TVOD/88888888/224/3221225988/index.m3u8
 河南卫视,http://39.134.66.66/TVOD/88888888/224/3221225988/index.m3u8
-广东卫视,http://39.134.66.110/TVOD/88888888/224/3221225966/index.m3u8
-广东卫视,http://39.134.66.66/TVOD/88888888/224/3221225966/index.m3u8
 
 北京卫视,http://39.134.66.66/TVOD/88888888/224/3221225678/index.m3u8
 湖北卫视,http://39.134.66.66/TVOD/88888888/224/3221225569/index.m3u8
 深圳卫视,http://39.134.66.66/TVOD/88888888/224/3221225668/index.m3u8
-大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 
 广东,#genre#
 广东体育,http://116.21.120.40:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -40,6 +41,7 @@ CCTV15,http://39.134.66.66/TVOD/88888888/224/3221225513/index.m3u8
 广东新闻,http://116.21.123.204:4433/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 广东新闻,http://219.137.29.178:4433/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 
+大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 广东珠江,http://116.21.120.40:4433/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 广东珠江,http://116.21.123.204:4433/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 广东珠江,http://219.137.29.178:4433/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
