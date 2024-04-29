@@ -34,8 +34,8 @@ CCTV15,http://39.134.66.66/TVOD/88888888/224/3221225513/index.m3u8
 深圳卫视,http://39.134.66.66/TVOD/88888888/224/3221225668/index.m3u8
 
 监控摄像头,#genre#
-主码流,rtsp://admin:0663tian@192.168.10.121:554/stream1
-子码流,rtsp://admin:0663tian@192.168.10.121:554/stream2
+主码流,rtsp://admin:0663tian@192.168.123.212:554/stream1
+子码流,rtsp://admin:0663tian@192.168.123.212:554/stream2
 
 
 广东,#genre#
