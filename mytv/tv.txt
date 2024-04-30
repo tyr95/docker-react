@@ -1,4 +1,4 @@
-咪咕,#genre#
+央视,#genre#
 CCTV1,http://39.134.66.66/TVOD/88888888/224/3221225816/index.m3u8
 CCTV1,http://39.134.66.66/TVOD/88888888/224/3221225706/index.m3u8
 CCTV2,http://39.134.66.66/TVOD/88888888/224/3221225599/index.m3u8
@@ -16,6 +16,7 @@ CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 CCTV14,http://39.134.66.66/TVOD/88888888/224/3221225674/index.m3u8
 CCTV15,http://39.134.66.66/TVOD/88888888/224/3221225513/index.m3u8
 
+卫视,#genre#
 广东卫视,http://39.134.66.110/TVOD/88888888/224/3221225966/index.m3u8
 广东卫视,http://39.134.66.66/TVOD/88888888/224/3221225966/index.m3u8
 广东卫视,http://183.63.15.42:9901/tsfile/live/37338_1.m3u8?key=txiptv&playlive=1&authid=0
