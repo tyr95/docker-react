@@ -277,6 +277,7 @@ CCTV10,http://39.135.133.136/PLTV/88888888/224/3221225677/1.m3u8
 纯享4K,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010006
 CCTV1,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010144
 CCTV1,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010011
+CCTV2,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010211
 CCTV3,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010212
 CCTV4,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010017
 CCTV5,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010139
@@ -288,6 +289,7 @@ CCTV8,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010216
 CCTV9,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010052
 CCTV11,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010092
 CCTV12,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010205
+CCTV12,http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/1000000001000032494
 CCTV13,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010093
 CCTV14,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010207
 CCTV15,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010094
